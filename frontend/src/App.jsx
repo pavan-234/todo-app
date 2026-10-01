@@ -78,7 +78,7 @@ function App() {
                     <div className="brand-icon">✓</div>
 
                     <span className="brand-name">
-                        TASKFLOW
+                        To-Do Application
                     </span>
                 </div>
 
